@@ -5,8 +5,9 @@ Managing environment variables using [dotenv](https://github.com/theskumar/pytho
 ## Environments
 
 python 3.8.2
-python-dotenv 0.19.0
-pydantic 1.8.2
+
+- python-dotenv 0.19.0
+- pydantic 1.8.2
 
 ## Environment Variables
 
